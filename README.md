@@ -5,9 +5,9 @@ To  download a video, simply enter the name of the video you want to download.
 VidBuddy does the rest for you!
 
 <b>Instructions to run:</b>
-<br>1.Download the python file.<br>
-2.Run it.<br>
-3.Enter the video's name.<br><br>
+<br>1.Download the python file. (VidBuddy.py)<br>
+2.Run it.(python VidBuddy.py)<br>
+3.Enter the video's name.(Hakuna Matata)<br><br>
 
 Collaboratively made with [Amanjeet Singh](https://github.com/amanjeetsingh150) 
 
